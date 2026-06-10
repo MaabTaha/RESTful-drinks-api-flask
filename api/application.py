@@ -1,11 +1,11 @@
-# everytime you open a new terminal run:
+# everytime you open a new terminal (use GitBash) run:
 # make sure you are in api folder
 #   export FLASK_APP=application.py
 #   export FLASK_ENV=development
 #   flask run
 # get the web link and paste into browser, example: "http://127.0.0.1:5000"
 
-
+# in terminal (GitBash)
 # run "python"
 # run "from application import app, db"
 # not needed anymore to run this (it's added to this file already): "app.app_context().push()""
